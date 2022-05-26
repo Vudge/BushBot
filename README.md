@@ -1,12 +1,10 @@
 # BushBot
-Small Music Bot for Discord // Written in JS
+Small Music Bot for Discord using discordjs
 
 Depends on:
-NodeJS
-npm
-fs
-discord.js
-@discordjs/opus
-ytdl-core
-ffmpeg-static
-yt-search
+- discord.js
+- @discordjs/opus
+- fs
+- ytdl-core
+- ffmpeg-static
+- yt-search
